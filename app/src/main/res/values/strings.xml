@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PRACTICANDO</string>
+    <string name="uso_intent">Uso Intent</string>
+    <string name="enviar_texto_act">Enviar texto (Act)</string>
+    <string name="enviar_texto_frag">Enviar texto (Frag)</string>
+    <string name="menu_frag">Menu Fragmentos</string>
+
+    <string name="intent_boton_llama">Llamar</string>
+    <string name="intent_boton_camara">Camara</string>
+    <string name="intent_boton_navega">Navega</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

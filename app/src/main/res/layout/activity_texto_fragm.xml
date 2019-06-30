@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <fragment
+        android:id="@+id/fragment_crear_mensaje"
+        android:name="com.example.brend.practicando.Fragment1"
+        android:layout_width="match_parent"
+        android:layout_height="232dp"
+        android:layout_weight="1" />
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fragment_mostrar_mensaje"
+        android:layout_weight="2"
+        android:name="com.example.brend.practicando.Fragment2"/>
+</LinearLayout>
